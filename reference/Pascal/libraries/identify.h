@@ -164,6 +164,17 @@ CONST  IDENTIFYBUFLEN = 50;  { default buffer length }
        IDSYS_UAE        = 12;   { Ubiquitous Amiga Emulator }
        IDSYS_AMIGA4000T = 13;   { Amiga 4000 Tower }
        IDSYS_AMIGAXL    = 14;   { AmigaXL }
+       IDSYS_AmigaONE_SE    = 15;  { PowerPC Hardware }
+       IDSYS_AmigaONE_XE    = 16;  { PowerPC Hardware }
+       IDSYS_AmigaONE_Micro = 17;  { PowerPC Hardware }
+       IDSYS_Sam440         = 18;  { PowerPC Hardware }
+       IDSYS_Sam460         = 19;  { PowerPC Hardware }
+       IDSYS_AmigaONE_X1000 = 20;  { PowerPC Hardware }
+       IDSYS_AmigaONE_X5000 = 21;  { PowerPC Hardware }
+       IDSYS_AmigaONE_X1222 = 22;  { PowerPC Hardware }
+       IDSYS_Pegasus_I      = 23;  { PowerPC Hardware }
+       IDSYS_Pegasus_II     = 24;  { PowerPC Hardware }
+       IDSYS_Efika          = 25;  { PowerPC Hardware }
 
 { IDHW_CPU numerical result codes }
 
@@ -271,6 +282,25 @@ CONST  IDENTIFYBUFLEN = 50;  { default buffer length }
        IDPPC_604       = 6;     {  604 }
        IDPPC_604E      = 7;     {  604e }
        IDPPC_620       = 8;     {  620 }
+       IDPPC_750CXE    = 9;     {  750CXE }
+       IDPPC_750FX     = 10;    {  750FX }
+       IDPPC_750GX     = 11;    {  750GX }
+       IDPPC_7410      = 12;    {  7410 }
+       IDPPC_74XX_VGER = 13
+       IDPPC_74XX_APOLLO = 14
+       IDPPC_405LP     = 15;    {  405LP }
+       IDPPC_405EP     = 16;    {  405EP }
+       IDPPC_405GP     = 17;    {  405GP }
+       IDPPC_405GPR    = 18;    {  405GPR }
+       IDPPC_440EP     = 19;    {  440EP }
+       IDPPC_440GP     = 20;    {  440GP }
+       IDPPC_440GX     = 21;    {  440GX }
+       IDPPC_440SX     = 22;    {  440SX }
+       IDPPC_440SP     = 23;    {  440SP }
+       IDPPC_PA6T_1682M = 24;   {  PA6T_1682M }
+       IDPPC_460EX     = 25;    {  460EX }
+       IDPPC_5121E     = 26;    {  5121E }
+       IDPPC_P50XX     = 27;    {  P50XX }
 
 { IDHW_RAMCAS numerical result codes }
 
@@ -294,6 +324,8 @@ CONST  IDENTIFYBUFLEN = 50;  { default buffer length }
        IDPOS_NONE      = 0;     {  None }
        IDPOS_POWERUP   = 1;     {  PowerUP (Phase 5) }
        IDPOS_WARPOS    = 2;     {  WarpOS (Haage&Partner) }
+       IDPOS_AMIGAOS_PPC = 3;
+       IDPOS_MORPHOS   = 4;
 
 { IDHW_AGNUS numerical result codes }
 
