@@ -489,51 +489,106 @@ Found
 ;
 MSG_HW_AMIGA1000        (4500//49)
 Amiga 1000
+;
 MSG_HW_OCSAMIGA         (//49)
 Amiga (OCS)
+;
 MSG_HW_ECSAMIGA         (//49)
 Amiga (ECS)
+;
 MSG_HW_AMIGA500         (//49)
 Amiga 500
+;
 MSG_HW_AMIGA2000        (//49)
 Amiga 2000
+;
 MSG_HW_AMIGA3000        (//49)
 Amiga 3000
+;
 MSG_HW_CDTV             (//49)
 CDTV
+;
 MSG_HW_AMIGA600         (//49)
 Amiga 600
+;
 MSG_HW_CD32             (//49)
 CD32
+;
 MSG_HW_AMIGA1200        (//49)
 Amiga 1200
+;
 MSG_HW_AMIGA4000        (//49)
 Amiga 4000
+;
 MSG_HW_DRACO            (//49)
 DraCo
+;
 MSG_HW_UAE              (//49)
 UAE
+;
 MSG_HW_AMIGA4000T       (//49)
 Amiga 4000 T
+;
 MSG_HW_AMIGAXL          (//49)
 AmigaXL
 ;
+MSG_HW_AmigaONE_SE           (//49)
+AmigaONE SE
+;
+MSG_HW_AmigaONE_XE           (//49)
+AmigaONE XE
+;
+MSG_HW_AmigaONE_Micro           (//49)
+AmigaONE Micro
+;
+MSG_HW_Sam440           (//49)
+Sam440
+;
+MSG_HW_Sam460           (//49)
+Sam460
+;
+MSG_HW_AmigaONE_X1000           (//49)
+AmigaONE X1000
+;
+MSG_HW_AmigaONE_X5000           (//49)
+AmigaONE X5000
+;
+MSG_HW_AmigaONE_X1222           (//49)
+AmigaONE X1222
+;
+MSG_HW_Pegasus_I           (//49)
+Pegasus I
+;
+MSG_HW_Pegasus_II           (//49)
+Pegasus II
+;
+MSG_HW_Efika           (//49)
+Efika
+;
 MSG_HW_68000            (5000//49)
 68000
+;
 MSG_HW_68010            (//49)
 68010
+;
 MSG_HW_68020            (//49)
 68020
+;
 MSG_HW_68030            (//49)
 68030
+;
 MSG_HW_68EC030          (//49)
 68EC030
+;
 MSG_HW_68040            (//49)
 68040
+;
 MSG_HW_68LC040          (//49)
 68LC040
+;
 MSG_HW_68060            (//49)
 68060
+;
 MSG_HW_68LC060          (//49)
 68LC060
 ;
@@ -616,8 +671,10 @@ MSG_HW_OS_44_BB2	(//49)
 3.5-BB2
 MSG_HW_OS_45_BB1	(//49)
 3.9-BB1
-MSG_HW_OS_45_BB2	(//49)
-3.9-BB2
+MSG_HW_OS_TMP	(//49)
+4.0
+MSG_HW_OS_53	(//49)
+4.1-Update2
 ;
 ;GARY
 MSG_HW_NORMAL           (6500//49)
@@ -660,6 +717,44 @@ MSG_HW_604E             (//49)
 604e
 MSG_HW_620              (//49)
 620
+MSG_750CXE			(//49)
+750CXE
+MSG_750FX			(//49)
+750FX
+MSG_750GX			(//49)
+750GX
+MSG_7410			(//49)
+7410
+MSG_74XX_VGER		(//49)
+74XX VGER
+MSG_74XX_APOLLO		(//49)
+74XX APOLLO
+MSG_405LP		(//49)
+405LP
+MSG_405EP		(//49)
+405EP
+MSG_405GP		(//49)
+405GP
+MSG_405GPR		(//49)
+405GPR
+MSG_440EP		(//49)
+440EP
+MSG_440GP		(//49)
+440GP
+MSG_440GX		(//49)
+440GX
+MSG_440SX		(//49)
+440GX
+MSG_440SP		(//49)
+440SP
+MSG_PA6T_1682M		(//49)
+PA6T 1682M
+MSG_460EX		(//49)
+460EX
+MSG_5121E		(//49)
+5121E
+MSG_P50XX		(//49)
+P50XX
 ;
 MSG_HW_RAMCAS_NORMAL    (7200//49)
 Normal
@@ -687,6 +782,10 @@ MSG_HW_PPCOS_POWERUP    (//49)
 PowerUp
 MSG_HW_PPCOS_WARPOS     (//49)
 WarpOS
+MSG_HW_PPCOS_AMIGAOS_PPC     (//49)
+AmigaOS_PPC
+MSG_HW_PPCOS_MORPHOS     (//49)
+MorphOS
 ;
 MSG_HW_AGNUS_NONE       (7500//49)
 None
@@ -746,5 +845,8 @@ MSG_HW_RTC_OKI          (//49)
 OKI MSM6242B
 MSG_HW_RTC_RICOH        (//49)
 Ricoh RP5C01A
+;
+END_OF_LIST (//49)
+End of list
 ;
 ;================================================================
