@@ -532,14 +532,11 @@ Amiga 4000 T
 MSG_HW_AMIGAXL          (//49)
 AmigaXL
 ;
-MSG_HW_AmigaONE_SE           (//49)
-AmigaONE SE
+MSG_HW_Unknown          (//49)
+Unknown
 ;
-MSG_HW_AmigaONE_XE           (//49)
-AmigaONE XE
-;
-MSG_HW_AmigaONE_Micro           (//49)
-AmigaONE Micro
+MSG_HW_AmigaONE        (//49)
+AmigaONE (SE / XE / Micro)
 ;
 MSG_HW_Sam440           (//49)
 Sam440
@@ -550,11 +547,14 @@ Sam460
 MSG_HW_AmigaONE_X1000           (//49)
 AmigaONE X1000
 ;
-MSG_HW_AmigaONE_X5000           (//49)
-AmigaONE X5000
-;
 MSG_HW_AmigaONE_X1222           (//49)
 AmigaONE X1222
+;
+MSG_HW_AmigaONE_X5020           (//49)
+AmigaONE X5020
+;
+MSG_HW_AmigaONE_X5040           (//49)
+AmigaONE X5040
 ;
 MSG_HW_Pegasus_I           (//49)
 Pegasus I
@@ -671,6 +671,8 @@ MSG_HW_OS_44_BB2	(//49)
 3.5-BB2
 MSG_HW_OS_45_BB1	(//49)
 3.9-BB1
+MSG_HW_OS_45_BB2	(//49)
+3.9-BB2
 MSG_HW_OS_TMP	(//49)
 4.0
 MSG_HW_OS_53	(//49)
